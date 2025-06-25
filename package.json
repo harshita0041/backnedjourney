@@ -1,0 +1,16 @@
+{
+  "name": "backenedlearn6",
+  "version": "1.0.0",
+  "description": "backened for youtube",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backened",
+    "learn"
+  ],
+  "author": "",
+  "license": "ISC"
+}
